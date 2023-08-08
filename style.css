@@ -60,6 +60,10 @@ p {
   .vantagens{
     flex-direction: column;
   }
+
+  .introducao h2{
+    font-size: 5rem;
+  }
 }
 
 .menu ul {
